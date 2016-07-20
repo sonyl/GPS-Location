@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS-Location</string>
+    <string name="button_request_start">Request Location</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_request_stop">Stop Location Requests</string>
+    <string name="button_request_unavail">Location unavailable</string>
+</resources>
